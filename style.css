@@ -1,10 +1,12 @@
 body {
   background-color: lightcoral;
 }
+
 .title {
   text-align: center;
   text-decoration: underline;
 }
+
 #day {
   margin-top: 20px;
 }
